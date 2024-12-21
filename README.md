@@ -6,4 +6,4 @@ Task 1 as a UI/UX Intern CodSoft: Designing a Mobile App sign-up flow
 
 Task 3 as a UI/UX Intern CodSoft: Designing a Restaurant menu
 
-![Uploading bothh.png…]()
+![bothh](https://github.com/user-attachments/assets/cd1849e1-30cf-40cd-9177-b09ea8ef3250)
